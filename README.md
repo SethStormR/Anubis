@@ -1,9 +1,9 @@
 
 ![Anubis](https://github.com/user-attachments/assets/456ff595-482f-4d7b-99b5-0ec33a05610b)
 
-Anubis icon theme is a Black and Golden icon theme for Gnome, XFCE, Pantheon and Budgie DE with a touch of Ancient Egypt mixed with modern style.
+Anubis icon theme is a Black and Golden icon theme for Gnome, XFCE, Pantheon, Cinnammon and Budgie DE with a touch of Ancient Egypt mixed with modern style.
 
-Support for Cinnamon and Mate coming soon...
+Support for Mate coming soon...
 
 
 Screenshots
