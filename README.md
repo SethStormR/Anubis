@@ -3,6 +3,14 @@
 
 Anubis icon theme is a Black and Golden icon theme for Gnome, XFCE, Pantheon, Mate, Cinnamon and Budgie DE with a touch of Ancient Egypt mixed with modern style.
 
+Tested on:
+Solus (Gnome/Budgie/XFCE)
+Fedora (Gnome/Budgie)
+Zorin OS 17 (Gnome)
+elementary 8 (Pantehon)
+Mint (Cinnamon/Mate)
+Manjaro (Gnome)
+
 
 Screenshots
 --
