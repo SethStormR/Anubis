@@ -11,7 +11,7 @@ Fedora (Gnome/Budgie)
 
 Zorin OS 17 (Gnome)
 
-elementary 8 (Pantehon)
+elementary 8 (Pantheon)
 
 Mint (Cinnamon/Mate)
 
