@@ -17,6 +17,10 @@ Mint (Cinnamon/Mate)
 
 Manjaro (Gnome)
 
+Ubuntu (Budgie)
+
+Pop OS! (Gnome)
+
 
 
 Screenshots
